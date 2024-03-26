@@ -2,6 +2,9 @@
 
 Sudoku Game is a classic puzzle game where you have to fill a 9x9 grid with numbers so that each row, each column, and each of the nine 3x3 subgrids contains all of the digits from 1 to 9. The game features an intuitive interface and various difficulty levels to challenge players of all skill levels.
 
+![Alt text](sudoku.png)
+
+
 ## Features
 - Classic Sudoku gameplay: Fill the grid with numbers from 1 to 9, ensuring no repetition in rows, columns, or subgrids.
 - Timer: Track your progress and challenge yourself to complete the puzzle in the shortest time possible.
@@ -20,12 +23,7 @@ Sudoku Game is a classic puzzle game where you have to fill a 9x9 grid with numb
 2. Open the `index.html` file in your web browser.
 3. Start playing Sudoku!
 
-## Screenshots
-![Screenshot 1](path/to/sudoku-screenshot1.png)
-![Screenshot 2](path/to/sudoku-screenshot2.png)
 
-## Demo
 [Play Sudoku](https://sithumsankajith.github.io/sudoku-web-game/)
 
-## Credits
-- Developed by @sithumsankajith
+
